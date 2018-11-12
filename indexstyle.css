@@ -1,0 +1,377 @@
+
+
+        
+
+ 
+.headimg{
+
+        height: 165px;
+background-image:
+url('images/header.png')
+}
+
+
+
+
+body{
+
+
+
+background-image:
+url('images/body1.png')
+}
+
+
+
+
+
+
+
+
+
+.LibraryM{
+background-image:
+url('images/color.png');
+position:relative;
+
+
+top: 40px;
+left:20px;
+width: 1200px;
+height: 400px;
+border-style: double;
+border-width: 1px 1px 1px;
+
+}
+
+
+        
+
+
+.MediaImg{
+top: 20px;
+right: 20px;
+width: auto;
+height:auto;
+position: absolute;
+
+ }
+
+.Addbutton{
+width: 150px;
+position: absolute;
+right: 30px;
+top: 10px;
+background-image:
+url('images/header.png');
+font-weight: bold;
+
+}
+
+
+.Medialibrary{
+position: relative;
+
+
+
+
+}
+
+.title8{
+	position: absolute;
+right: 150px;
+bottom: 10px;
+font-family: sans-serif;
+border-style: double;
+border-width: 1px 1px 1px;
+width:250px;
+height:40px;
+
+}
+
+
+.title8 h2{
+position:absolute;
+top:-10px;
+
+
+
+
+}
+
+.title7{
+	position: absolute;
+left: 330px;
+top: 170px;
+font-family: sans-serif;
+border-style: double;
+border-width: 1px 1px 1px;
+width:270px;
+height:40px;
+
+}
+
+
+.title7 h2{
+position:absolute;
+top:-10px;
+
+
+
+
+}
+
+.title6{
+	position: absolute;
+left: 20px;
+top: 170px;
+font-family: sans-serif;
+border-style: double;
+border-width: 1px 1px 1px;
+width:300px;
+height:40px;
+
+}
+
+
+.title6 h2{
+position:absolute;
+top:-10px;
+
+
+
+
+}
+
+.title5{
+	position: absolute;
+left: 20px;
+top: 220px;
+font-family: sans-serif;
+border-style: double;
+border-width: 1px 1px 1px;
+width:580px;
+height:110px;
+
+}
+
+
+.title5 h2{
+position:absolute;
+top:-10px;
+
+
+
+
+}
+
+
+.title4{
+	position: absolute;
+left: 380px;
+top: 20px;
+font-family: sans-serif;
+border-style: double;
+border-width: 1px 1px 1px;
+width:220px;
+height:40px;
+
+}
+
+
+.title4 h2{
+position:absolute;
+top:-10px;
+
+
+
+
+}
+
+.title3{
+	position: absolute;
+left: 20px;
+top: 70px;
+font-family: sans-serif;
+border-style: double;
+border-width: 1px 1px 1px;
+width:580px;
+height:40px;
+
+}
+
+
+.title3 h2{
+position:absolute;
+top:-10px;
+
+
+
+
+}
+
+.title2{
+	position: absolute;
+left: 20px;
+top: 120px;
+font-family: sans-serif;
+border-style: double;
+border-width: 1px 1px 1px;
+width:580px;
+height:40px;
+
+}
+
+
+.title2 h2{
+position:absolute;
+top:-10px;
+
+
+
+
+}
+
+
+.title1{
+	position: absolute;
+left:20px;
+top: 20px;
+font-family: sans-serif;
+border-style: double;
+border-width: 1px 1px 1px;
+width:350px;
+height:40px;
+
+}
+
+
+.title1 h2{
+position:absolute;
+top:-10px;
+
+
+
+
+}
+
+
+
+.MediaN{
+color: blue;
+font-family: sans-serif;
+font-weight: bold;
+position: absolute;
+right:70px;
+top:15px;
+
+
+
+}
+
+.MediaT{
+color: blue;
+font-family: sans-serif;
+font-weight: bold;
+position: absolute;
+right:20px;
+top:15px;
+
+
+
+}
+
+.Author{
+color: blue;
+font-family: sans-serif;
+font-weight: bold;
+position: absolute;
+right:150px;
+top:15px;
+
+
+
+}
+
+.publisher{
+color: blue;
+font-family: sans-serif;
+font-weight: bold;
+position: absolute;
+right:150px;
+top:15px;
+
+
+
+}
+
+
+.ISBN{
+color: blue;
+font-family: sans-serif;
+font-weight: bold;
+position: absolute;
+right:20px;
+top:15px;
+
+
+
+}
+
+
+
+.publishD{
+color: blue;
+font-family: sans-serif;
+font-weight: bold;
+position: absolute;
+right:20px;
+top:15px;
+
+
+
+}
+
+.desc{
+color: blue;
+font-family: sans-serif;
+font-weight: bold;
+position: absolute;
+left:140px;
+top:15px;
+
+
+
+}
+
+
+.StatusS{
+color: green;
+font-family: sans-serif;
+font-weight: bold;
+position: absolute;
+right:20px;
+top:15px;
+
+
+
+}
+
+
+.ButtonsED{
+position:absolute;
+bottom: 20px;
+left:240px;
+
+
+
+}
+
+
+
+.ButtonsED button{
+background-image:
+url('images/header.png');
+font-weight: bold;
+
+}
